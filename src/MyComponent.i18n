@@ -1,0 +1,7 @@
+Key
+Actual string in english
+En français s'il vous plai
+
+Hello $firstname // { firstname: string }
+Hello $firstname
+Bonjour $firstname
